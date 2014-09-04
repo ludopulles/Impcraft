@@ -1,0 +1,16 @@
+[
+{
+  "modid": "impcraft",
+  "name": "ImpCraft",
+  "description": "A mod with imps",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gijs H, Joep M, Ludo P"],
+  "credits": "Thank you for using this mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
