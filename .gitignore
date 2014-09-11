@@ -1,9 +1,10 @@
 # mappen:
 .settings/
+.gradle/
 bin/
 build/
 gradle/
 
 # bestanden:
-.classpath
+*/.classpath
 .project
