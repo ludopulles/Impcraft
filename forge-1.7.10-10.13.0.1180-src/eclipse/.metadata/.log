@@ -41,11 +41,33 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-04 23:36:55.651
 !MESSAGE unexpected method call (NullSarosSession.java:64)
+<<<<<<< HEAD
+!SESSION 2014-09-05 22:12:08.809 -----------------------------------------------
+=======
 !SESSION 2014-09-05 22:24:03.968 -----------------------------------------------
+>>>>>>> origin/master
 eclipse.buildId=4.4.0.I20140606-1215
 java.version=1.7.0_51
 java.vendor=Oracle Corporation
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=nl_NL
+<<<<<<< HEAD
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-05 22:12:16.767
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-05 22:12:16.770
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-05 22:12:27.365
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-05 22:12:27.387
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-09-05 22:12:35.362
+=======
 Framework arguments:  -product org.eclipse.epp.package.standard.product -product org.eclipse.epp.package.standard.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product -data C:\Development\GitHub\Impcraft\forge-1.7.10-10.13.0.1180-src\eclipse -product org.eclipse.epp.package.standard.product
 
@@ -62,6 +84,7 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 !MESSAGE unexpected method call (NullSarosSession.java:64)
 
 !ENTRY org.eclipse.egit.ui 2 0 2014-09-05 22:24:32.521
+>>>>>>> origin/master
 !MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
 Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
 The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
@@ -69,13 +92,24 @@ this system level configuration. The Git installation location can be configured
 Team > Git > Configuration preference page's 'System Settings' tab.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
+<<<<<<< HEAD
+!ENTRY org.eclipse.egit.ui 2 0 2014-09-05 22:12:35.365
+=======
 !ENTRY org.eclipse.egit.ui 2 0 2014-09-05 22:24:32.523
+>>>>>>> origin/master
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\Ludo'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
+<<<<<<< HEAD
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-05 22:24:02.233
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-05 22:24:02.237
+!MESSAGE unexpected method call (NullSarosSession.java:64)
+=======
 !ENTRY de.fu_berlin.inf.dpp 2 0 2014-09-05 22:25:10.498
 !MESSAGE unexpected method call (NullSarosSession.java:64)
 
@@ -115,3 +149,4 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+>>>>>>> origin/master
