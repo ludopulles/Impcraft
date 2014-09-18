@@ -1,11 +1,32 @@
-[23:29:23] [main/INFO]: Setting user: ForgeDevName
-[23:29:25] [Client thread/INFO]: LWJGL Version: 2.9.1
-[23:29:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ImpCraft
-[23:29:36] [Sound Library Loader/INFO]: Sound engine started
-[23:29:45] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:29:45] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:29:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ImpCraft
-[23:29:45] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:29:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:29:47] [Sound Library Loader/INFO]: Sound engine started
-[23:30:26] [Client thread/INFO]: Stopping!
+[16:31:19] [main/INFO]: Setting user: ForgeDevName
+[16:31:21] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:31:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ImpCraft
+[16:31:32] [Sound Library Loader/INFO]: Sound engine started
+[16:31:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:31:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:31:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ImpCraft
+[16:31:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:31:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:31:37] [Sound Library Loader/INFO]: Sound engine started
+[16:32:48] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:32:48] [Server thread/INFO]: Generating keypair
+[16:32:49] [Server thread/INFO]: Preparing start region for level 0
+[16:32:51] [Server thread/INFO]: Preparing spawn area: 0%
+[16:32:52] [Server thread/INFO]: Preparing spawn area: 47%
+[16:32:53] [Server thread/INFO]: Changing view distance to 2, from 10
+[16:32:54] [Server thread/INFO]: ForgeDevName[local:E:5cf0d4f2] logged in with entity id 394 at (204.71521864247, 65.0, 27.683310698362835)
+[16:32:54] [Server thread/INFO]: ForgeDevName joined the game
+[16:32:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3203ms behind, skipping 64 tick(s)
+[16:33:13] [Server thread/INFO]: [ForgeDevName: Given [Build Block] * 1 to ForgeDevName]
+[16:33:13] [Client thread/INFO]: [CHAT] Given [Build Block] * 1 to ForgeDevName
+[16:33:39] [Server thread/INFO]: Saving and pausing game...
+[16:33:39] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[16:33:40] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[16:33:40] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[16:33:40] [Server thread/INFO]: Stopping server
+[16:33:40] [Server thread/INFO]: Saving players
+[16:33:40] [Server thread/INFO]: Saving worlds
+[16:33:40] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[16:33:40] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[16:33:40] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[16:33:43] [Client thread/INFO]: Stopping!
